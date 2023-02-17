@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(247, 233, 241, 0.911);
+}
+
+button {
+    color: white;
+    background-color: #8AB4F8;
+    border: 1px solid;
+    padding: 5px 20px;
+    border-radius: 5px 5px;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+}
+
+fieldset {
+    border: white;
+}
