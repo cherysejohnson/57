@@ -1,28 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
 body {
-    font-family: sans-serif;
-    background-color: rgba(247, 233, 241, 0.911);
+    min-height: 100vh;
+    min-width: 100%;
+    background-color: #91b8dd;
 }
 
-button {
-    color: white;
-    background-color: #8AB4F8;
-    border: 1px solid;
-    padding: 5px 20px;
-    border-radius: 5px 5px;
-}
-
-button:hover {
-    background-color: blue;
+p {
+    color: black;
 }
 
 .container {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    height: 80vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 430px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-fieldset {
-    border: white;
+header {
+    font-size: 2rem;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+form {
+    padding: 50px;
+}
+
+form input {
+    height: 60px;
+    width: 100%;
+    padding: 0 15px;
+    font-size: 17px;
+    margin-bottom: 1.3rem;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    outline: none;
+}
+
+form input:focus{
+    box-shadow: 0 1px 0 rgba(0,0,0,0.2);
+}
+
+form input.button {
+    color: #fff;
+    background: #005e95;
+    font-size: 1.2rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-top: 1rem;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+form input.button:hover{
+    background: #003066;
 }

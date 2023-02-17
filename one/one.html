@@ -10,20 +10,13 @@
 </head>
 <body>
     <div class="container">
-        <section>
-            <h1>What is your name?</h1>
-        </section>
-        <form>
-            <fieldset>
-                <label>name: <input type="text" id="name"> </label>
-                <button type="submit">Submit</button>
-            </fieldset>
-            <br>
-            <fieldset>
-                <p id="repeat"></p>
-                <p id="result"></p>
-            </fieldset>
-        </form>
+        <form id="start">
+            <header>What's your name?</header>
+            <input id="name" type="text" placeholder="Enter your name">
+            <input id="btn" type="button" class="button" value="Submit" onclick="hello(); return false">
+            <p id="repeat"></p>
+            <p id="result"></p>
+        </form> 
     </div>
 </body>
 </html>
