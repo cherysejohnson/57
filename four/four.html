@@ -5,13 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link href="four.css" rel="stylesheet">
+    <script src="four.js"></script>
 </head>
 <body>
     <div class="container">
-        <form>
-            <header></header>
-            <input>
-            <input>
+        <form id="start">
+            <header>Mad-Libs</header>
+            <input id="noun" type="text" placeholder="Enter a noun">
+            <input id="adj" type="text" placeholder="Enter an adjective">
+            <input id="verb" type="text" placeholder="Enter a verb">
+            <input id="adverb" type="text" placeholder="Enter an adverb">
+            <input id="btn" type="button" value="Submit" onclick="mad(); return false">
+            <p id="output"></p>
         </form>
     </div>
 </body>
