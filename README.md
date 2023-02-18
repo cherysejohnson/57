@@ -25,8 +25,8 @@ Round 3 - Framework (React)
 
 #### Challenge Four
 'Mad Lib'
-- Create a simple mad-lib program that prompts for a noun, a verb, an adverb, amd am adjective and injects those into a story that you create.
-Ex)
+- Create a simple mad-lib program that prompts for a noun, a verb, an adverb, and an adjective and injects those into a story that you create.
+
 - Enter a noun: dog
 - Enter a verb: walk
 - Enter an adjective: blue
