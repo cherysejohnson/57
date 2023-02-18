@@ -31,4 +31,4 @@ Round 3 - Framework (React)
 - Enter a verb: walk
 - Enter an adjective: blue
 - Enter an adverb: quickly
-Output: Do you walk your blue dog quickly? That's hilarious!
+- Output: Do you walk your blue dog quickly? That's hilarious!
