@@ -17,3 +17,8 @@ Round 3 - Framework (React)
 #### Challenge Two
 'Counting the Number of Characters'
 - Create a program that prompts for an input string and then displays an output that shows the input string and the number of characters the string contains
+
+#### Challenge Three
+'Printing Quotes'
+- Create a program that prompts for a quote and an author. Display the quotation and author as shown below
+- What is the quote? '[Quote]' / Who said it? '[Author]' / '[Author]' says, '[Quote]'
