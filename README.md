@@ -30,3 +30,8 @@ Round 3 - Framework (React)
 #### Challenge Five
 'Simple Math'
 - Write a program that prompts for two numbers. Print the sum, difference, product, and quotient of those numbers
+
+#### Challenge Six
+'Retirement Calculator'
+- Create a program that determines how many years you have left until retirement and the year you can retire.
+- What is your current age? [age] At what age would you like to retire? [age] You have [years] left until you can retire. It's [year], so you can retire in [year]
