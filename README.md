@@ -27,18 +27,6 @@ Round 3 - Framework (React)
 'Mad Lib'
 - Create a simple mad-lib program that prompts for a noun, a verb, an adverb, and an adjective and injects those into a story that you create.
 
-- Enter a noun: dog
-- Enter a verb: walk
-- Enter an adjective: blue
-- Enter an adverb: quickly
-- Output: Do you walk your blue dog quickly? That's hilarious!
-
 #### Challenge Five
 'Simple Math'
 - Write a program that prompts for two numbers. Print the sum, difference, product, and quotient of those numbers
-- What is the first number? x
-- What is the second number? y
-- x + y = _
-- x - y = _
-- x * y = _
-- x / y = _
