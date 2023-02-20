@@ -9,29 +9,4 @@ Round 2 - Complete 'Challenges'
 Round 3 - Framework (React) 
 
 ### Notes:
-
-#### Challenge One
-'Saying Hello'
-- Create a program that asks for your name and prints a greeting using your name
-
-#### Challenge Two
-'Counting the Number of Characters'
-- Create a program that prompts for an input string and then displays an output that shows the input string and the number of characters the string contains
-
-#### Challenge Three
-'Printing Quotes'
-- Create a program that prompts for a quote and an author. Display the quotation and author as shown below
-- What is the quote? '[Quote]' / Who said it? '[Author]' / '[Author]' says, '[Quote]'
-
-#### Challenge Four
-'Mad Lib'
-- Create a simple mad-lib program that prompts for a noun, a verb, an adverb, and an adjective and injects those into a story that you create.
-
-#### Challenge Five
-'Simple Math'
-- Write a program that prompts for two numbers. Print the sum, difference, product, and quotient of those numbers
-
-#### Challenge Six
-'Retirement Calculator'
-- Create a program that determines how many years you have left until retirement and the year you can retire.
-- What is your current age? [age] At what age would you like to retire? [age] You have [years] left until you can retire. It's [year], so you can retire in [year]
+2/20 - 7 to 13
