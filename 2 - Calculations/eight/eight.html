@@ -7,15 +7,17 @@
     <title>Pizza Party</title>
     <link href="eight.css" rel="stylesheet">
     <script src="eight.js"></script>
-</head> 
+</head>
 <body>
     <div class="container">
-        <header>Pizza Party</header>
-        <form class="start">
-            <input type="text" id="" placeholder="">
-            <input type="text" id="" placeholder="">
-            <input type="button" id="btn" value="Submit">
-        </form> 
+        <form id="start">
+            <header>Pizza Party</header>
+            <input type="number" id="people" placeholder="Enter the number of people attending">
+            <input type="number" id="pizzas" placeholder="Enter the number of pizzas ordered">
+            <input type="number" id="slices" placeholder="Enter number of slices per pizza">
+            <input type="button" id="btn" value="Submit" onclick="party(); return false">
+            <p id="result"></p>
+        </form>
     </div>
 </body>
 </html>
