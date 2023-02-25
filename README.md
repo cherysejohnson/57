@@ -9,4 +9,4 @@ Round 2 - Complete 'Challenges'
 Round 3 - Framework (React) 
 
 ### Notes:
-2/20 - 7 to 13
+2/24 9 - 13
